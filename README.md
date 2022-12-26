@@ -31,11 +31,9 @@ https://github.com/ramfir/net-tech-project
 
 1.  Настроить сеть в Сisco Packet Tracer.
 
-(https://docs.google.com/document/d/1RhWYE7-QxdfDZIGPrmquqXf9phlpDxO5/edit?usp=sharing&ouid=114961271370338634155&rtpof=true&sd=true)
-
 2.  Отчет по лабораторной работе доступен по ссылке:
 
-*Будет добавлено позже*
+(https://docs.google.com/document/d/1RhWYE7-QxdfDZIGPrmquqXf9phlpDxO5/edit?usp=sharing&ouid=114961271370338634155&rtpof=true&sd=true)
 
 ## Подготовка к экзамену
 ### Билет № 8

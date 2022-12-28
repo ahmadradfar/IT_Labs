@@ -39,3 +39,9 @@ https://github.com/ramfir/net-tech-project
 ### Билет № 8
 
 Ответ на экзаменационный билет: [Билет №8](https://github.com/stankin/inet-2022/wiki/exam08)
+
+[Commit diff 1](https://github.com/stankin/inet-2022/wiki/exam08/_compare/e05638788af5ef32b679445935f18c9713ac8941...ecdfa6dee03db2363e4e546f7dff22eacc4ee06e)
+
+[Commit diff 2](https://github.com/stankin/inet-2022/wiki/exam08/_compare/aad7ed30f84a1cfa60cfb04076e253265f7b87c1...8d1b2fc6cdc9a63ee87d30d5bc7e62884f741d3b)
+
+
